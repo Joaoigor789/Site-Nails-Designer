@@ -17,6 +17,28 @@ Este projeto foi criado para proporcionar uma **experiência visual sofisticada*
 
 ---
 
+
+
+Um toque de beleza em cada detalhe — veja um pouco do nosso trabalho e do visual do estúdio ✨  
+
+<p align="center">
+  <img src="assets/1.png" alt="Logo GlamNails Studio" width="250" style="border-radius:15px; box-shadow:0 0 10px pink;"/>
+</p>
+
+<p align="center">
+  <img src="assets/2.jpeg" alt="Unhas decoradas 1" width="200" style="margin:5px; border-radius:20px; box-shadow:0 0 15px #ff80bf;"/>
+  <img src="assets/3.jpeg" alt="Unhas decoradas 2" width="200" style="margin:5px; border-radius:20px; box-shadow:0 0 15px #ffb6c1;"/>
+  <img src="assets/4.jpeg" alt="Unhas decoradas 3" width="200" style="margin:5px; border-radius:20px; box-shadow:0 0 15px #e57aff;"/>
+</p>
+
+<p align="center">
+  <img src="assets/5.jpeg" alt="Ambiente GlamNails" width="200" style="margin:5px; border-radius:20px; box-shadow:0 0 15px #ffa6c9;"/>
+  <img src="assets/6.jpeg" alt="Cliente feliz GlamNails" width="200" style="margin:5px; border-radius:20px; box-shadow:0 0 15px #e68cff;"/>
+</p>
+
+
+---
+
 ## ✨ Funcionalidades
 
 - Interface moderna e responsiva em tons **rosa e roxo glamour**  
